@@ -64,13 +64,14 @@ text-align: center;
     margin-top: 1%;
     justify-content: center;
     justify-content: space-between;
+    margin: 5px 2px 5px 2px;
 }
 .div1-1{
     background-color: coral;
-    width: 90px;
+    width: 100px;
     text-align: center;
     height: 50px;
-    margin-right: 10px;
+    
 }
 .div1-2{
     background-color: coral;
